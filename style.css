@@ -75,3 +75,16 @@ section a{
     position: relative;
     top: 8px;
 }
+
+nav #desktop{
+    width: 100%;
+    height: 100%;
+    display: none;
+    align-items: space-around;
+}
+
+
+
+@media(min-width:768px){
+    
+}
